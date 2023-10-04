@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Project5</string>
+    <string name="write_something">Write something...</string>
+    <string name="source_language">Source Language</string>
+    <string name="translation">Translation</string>
+    <string name="english">English</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="Spanish">Spanish</string>
+    <string name="german">German</string>
+    <string name="spanish">Spanish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="automatic">automatic</string>
 </resources>
